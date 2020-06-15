@@ -1,0 +1,2 @@
+export const GET_COUNTRY_LIST = 'GET_COUNTRY_LIST';
+export const CURRENCY_VALUE = 'CURRENCY_VALUE';
